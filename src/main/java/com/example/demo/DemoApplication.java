@@ -10,7 +10,7 @@ public class DemoApplication {
 		new PrintWelcome();
 
         System.out.println("Test");
-        System.out.println("Commit avant checkout");
+        System.out.println("Commit avant checkout, puis branch dev");
         //SpringApplication.run(DemoApplication.class, args);
 	}
 
