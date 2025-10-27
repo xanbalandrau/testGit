@@ -13,7 +13,7 @@ public class DemoApplication {
         System.out.println("Commit avant checkout, puis branch dev");
 
         int chiffre = 1;
-        if(chiffre %2 ==0){
+        if(Integer.parseInt(String.valueOf(chiffre)) == (int)chiffre && chiffre %2 ==0){
             System.out.println("Pair");
         }else {
             System.out.println("Impair");
