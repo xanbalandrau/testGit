@@ -10,6 +10,8 @@ public class DemoApplication {
 		new PrintWelcome();
 
         System.out.println("Test");
+        System.out.println("branch dev");
+
         //SpringApplication.run(DemoApplication.class, args);
 	}
 
