@@ -14,6 +14,7 @@ public class DemoApplication {
 
         var chiffre = 1;
         if(chiffre ==(int)chiffre && chiffre %2 ==0){
+
             System.out.println("Pair");
         }else {
             System.out.println("Impair");
