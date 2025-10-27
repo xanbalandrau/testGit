@@ -10,6 +10,7 @@ public class DemoApplication {
 		new PrintWelcome();
 
         System.out.println("Test");
+        System.out.println("Commit avant checkout");
         //SpringApplication.run(DemoApplication.class, args);
 	}
 
