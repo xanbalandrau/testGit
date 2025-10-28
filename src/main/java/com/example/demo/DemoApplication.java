@@ -12,14 +12,15 @@ public class DemoApplication {
         System.out.println("Test");
         System.out.println("Commit avant checkout, puis branch dev");
 
+
         var chiffre = 1;
         if(chiffre ==(int)chiffre && chiffre %2 ==0){
-
             System.out.println("Pair");
         }else {
             System.out.println("Impair");
         }
         //SpringApplication.run(DemoApplication.class, args);
+        // Commentaire VsCode
 	}
 
 }
